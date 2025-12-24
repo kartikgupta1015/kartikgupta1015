@@ -1,4 +1,4 @@
-## Hi, I'm Kartik 👋
+<!-- ## Hi, I'm Kartik 👋 -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kartik+%F0%9F%91%8B;BTech+Computer+Science+Student;Interested+in+Systems+%26+ML" />
